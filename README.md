@@ -1,5 +1,9 @@
 # Out of Tokens, Mid-Sentence — make.fun entry
 
+[![make.fun · u-kiencx-out-of-tokens-mid-sentence-00f60233](https://make.fun/badge/u-kiencx-out-of-tokens-mid-sentence-00f60233.svg)](https://make.fun/bounty/u-kiencx-out-of-tokens-mid-sentence-00f60233?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-out-of-tokens-mid-sentence-00f60233)
+[![rank](https://make.fun/badge/u-kiencx-out-of-tokens-mid-sentence-00f60233/daring-falcon-58/u-kiencx-out-of-tokens-mid-sentence-00f60233/rank.svg)](https://make.fun/bounty/u-kiencx-out-of-tokens-mid-sentence-00f60233/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-out-of-tokens-mid-sentence-00f60233)
+[![reward](https://make.fun/badge/u-kiencx-out-of-tokens-mid-sentence-00f60233/daring-falcon-58/u-kiencx-out-of-tokens-mid-sentence-00f60233/reward.svg)](https://make.fun/bounty/u-kiencx-out-of-tokens-mid-sentence-00f60233?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-out-of-tokens-mid-sentence-00f60233)
+
 ## Methodology (read first)
 
 - **Task:** one line — the error message an AI agent shows when it runs out
